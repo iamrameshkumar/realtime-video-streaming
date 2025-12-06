@@ -1,2 +1,1 @@
-# mediafoundationsamples
-A  set of minimal sample apps that demonstrate how to use certain parts of Microsoft's Windows Media Foundation API.
+A minimal application showing how to stream video from a native desktop app to a webpage.
